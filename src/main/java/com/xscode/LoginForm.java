@@ -10,6 +10,7 @@ public class LoginForm {
         Scanner scanner = new Scanner(System.in);
         
         System.out.println("\n🔐 Login Form");
+        
         System.out.println("==============");
         
         System.out.print("Username: ");
