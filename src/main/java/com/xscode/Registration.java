@@ -10,6 +10,9 @@ public class Registration {
         System.out.println("\n📝 Registration Form");
         System.out.println("===================");
         
+        System.out.println("\n📝 Registration Form");
+        System.out.println("===================");
+        
         System.out.print("Enter Full Name: ");
         String fullName = scanner.nextLine();
         
